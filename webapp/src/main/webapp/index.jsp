@@ -1,5 +1,5 @@
-<h1> Hai, Hello, Welcome to my project </h1>
-<h2> We learnt how to deploy to tomcat server </h2>
+<h1> Hai, Hello, Welcome to my sample project </h1>
+<h2> We learnt how to deploy application to tomcat server </h2>
 
-<h2> Afterwards we learnt CICD</h2>
-<h2> Finally we can configure jenkins with ansible, Dockerhub, Docker and Kubernetes </h2>
+<h2> have a Good day..! </h2>
+<h2> :) </h2>
